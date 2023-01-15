@@ -21,8 +21,8 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ### Links
 
-- Solution URL: [Single price grid](https://lashasuxa.github.io/NFT-Card-component/)
-- Live Site URL: [Single price grid](https://github.com/lashasuxa/NFT-Card-component)
+- Solution URL: [Single price grid](https://github.com/lashasuxa/single-price-grid-component-master)
+- Live Site URL: [Single price grid](https://lashasuxa.github.io/single-price-grid-component-master/)
 
 ## My process
 
@@ -31,7 +31,6 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
